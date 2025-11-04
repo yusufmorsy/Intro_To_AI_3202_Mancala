@@ -1,0 +1,11 @@
+name: mancala-ai
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - reportlab
+  - jupyterlab
+  - ipykernel
